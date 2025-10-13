@@ -1,13 +1,13 @@
 # flex_glove
 
-flex_glove 메인내용
-----
+## 1.flex_glove 메인내용
 
-flex_sensor
 ---
+## 2.flex_sensor
 
-mpu9250
 ---
+## 3.mpu9250
 
-ESP32
 ---
+## 4.ESP32
+
